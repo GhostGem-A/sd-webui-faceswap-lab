@@ -2,7 +2,7 @@
 
 V1.2.3 : Breaking change for settings, please read changelog.
 
-Please read the documentation here : https://glucauze.github.io/sd-webui-faceswaplab/ 
+Please read the documentation here : sd-webui-faceswaplab
 
 You can also read the [doc discussion section](https://github.com/GhostGem-A/sd-webui-faceswaplab/discussions/categories/guide-doc)
 
