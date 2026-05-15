@@ -4,7 +4,7 @@ V1.2.3 : Breaking change for settings, please read changelog.
 
 Please read the documentation here : https://glucauze.github.io/sd-webui-faceswaplab/ 
 
-You can also read the [doc discussion section](https://github.com/glucauze/sd-webui-faceswaplab/discussions/categories/guide-doc)
+You can also read the [doc discussion section](https://github.com/GhostGem-A/sd-webui-faceswaplab/discussions/categories/guide-doc)
 
 See [CHANGELOG.md](CHANGELOG.md) for changes in last versions.
 
@@ -38,23 +38,23 @@ Here are some gifs to explain (non cherry picked, just random pictures) :
 
 This use codeformer on all faces (including non swapped)
 
-[simple.webm](https://github.com/glucauze/sd-webui-faceswaplab/assets/137925069/de00b685-d441-44f9-bae3-71cd7abef113)
+[simple.webm](https://github.com/GhostGem-A/sd-webui-faceswaplab/assets/137925069/de00b685-d441-44f9-bae3-71cd7abef113)
 
 ## Advanced options 
 
 This is use to improve results. This use upscaling and codeformer only on swapped faces
 
-[advanced.webm](https://github.com/glucauze/sd-webui-faceswaplab/assets/137925069/50630311-bd25-487f-871b-0a44eecd435d)
+[advanced.webm](https://github.com/GhostGem-A/sd-webui-faceswaplab/assets/137925069/50630311-bd25-487f-871b-0a44eecd435d)
 
 ## Inpainting 
 
 This add inpainting on faces : 
 
-[inpainting.webm](https://github.com/glucauze/sd-webui-faceswaplab/assets/137925069/3d3508e9-5be4-4566-8c41-8301b2d08355)
+[inpainting.webm](https://github.com/GhostGem-A/sd-webui-faceswaplab/assets/137925069/3d3508e9-5be4-4566-8c41-8301b2d08355)
 
 ## Build and use checkpoints : 
 
-[build.webm](https://github.com/glucauze/sd-webui-faceswaplab/assets/137925069/e84e9a3c-840d-4536-9fbb-09ed256406d7)
+[build.webm](https://github.com/GhostGem-A/sd-webui-faceswaplab/assets/137925069/e84e9a3c-840d-4536-9fbb-09ed256406d7)
 
 
 
@@ -78,12 +78,12 @@ Once you're happy with some results but want to improve, the next steps are to:
 
 4. In **Post-Processing** accordeon:
     + Select "CodeFormer" 
-    + Select "LDSR" or a faster model "003_realSR_BSRGAN_DFOWMFC_s64w8_SwinIR-L_x4_GAN" in upscaler. See [here for a list of upscalers](https://github.com/glucauze/sd-webui-faceswaplab/discussions/29). 
+    + Select "LDSR" or a faster model "003_realSR_BSRGAN_DFOWMFC_s64w8_SwinIR-L_x4_GAN" in upscaler. See [here for a list of upscalers](https://github.com/GhostGem-A/sd-webui-faceswaplab/discussions/29). 
     + Use sharpen, color_correction and improved mask
 
 5. Disable "CodeFormer" in **Global Post-Processing** tab (otherwise it will be applied twice)
 
-Don't hesitate to share config in the [discussion section](https://github.com/glucauze/sd-webui-faceswaplab/discussions).
+Don't hesitate to share config in the [discussion section](https://github.com/GhostGem-A/sd-webui-faceswaplab/discussions).
 
 ### Features
 
