@@ -125,8 +125,3 @@ Don't hesitate to share config in the [discussion section](https://github.com/Gh
 + **Upscaled Inswapper**: The program now includes an upscaled inswapper option, which improves results by incorporating upsampling, sharpness adjustment, and color correction before face is merged to the original image.
 
 + **API with typing support**
-
-
-## Installation
-
-See the documentation here : https://glucauze.github.io/sd-webui-faceswaplab/
