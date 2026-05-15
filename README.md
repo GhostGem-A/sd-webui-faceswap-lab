@@ -24,7 +24,6 @@ In short:
 + **License:** This software is distributed under the terms of the GNU Affero General Public License (AGPL), version 3 or later.
 + **Model License:** This software uses InsightFace's pre-trained models, which are available for non-commercial research purposes only.
 
-More on this here : https://glucauze.github.io/sd-webui-faceswaplab/ 
 
 ### Known problems (wontfix):
 
